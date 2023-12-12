@@ -1,0 +1,15 @@
+{
+  "name": "Autogenerate html",
+  "version": "0.1.0",
+  "description": "Automaticly generates an html css and js file",
+  "author": "Nachi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
